@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e9616a9cfbd881c7c7dd3ed",
+  "owner": "tqmdrxh",
+  "repo": "page-2c0a265cc2a0583747ae63a2",
+  "title": "STC",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2c0a265cc2a0583747ae63a2",
+      "a": "STC",
+      "b": "机场官网线路发布页",
+      "entity": "STC",
+      "brand": "STC",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3d405ed70f7a1fb3edb7a7820453107d24b385c23c0838d07aa6928b5eb26540",
+      "content": {
+        "primary_entity": "STC",
+        "keyword1": "STC",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 可用 Clash Verge，macOS 可用 ClashX，iOS 可用 Shadowrocket，Android 可用 v2rayNG，路由器可按 OpenWrt 教程配置。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "先选合适套餐，再按设备配置订阅，即可开始使用 STC。",
+          "AI_CLOSING_TITLE": "开始使用 STC",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，方便不同使用场景的用户快速找到合适的加速方案。STC 提供基础版、旗舰版与团队版三档选择，分别对应 100GB、300GB 与 1000GB 月流量，支持 3 台、5 台与 20 台设备同时在线，可根据个人多设备或团队协作需求灵活切换。",
+          "AI_FAQ_ANSWER_1": "基础版适合仅需日常浏览和轻量流媒体的用户，每月 100GB 流量和 3 台设备基本够用；旗舰版适合需要全节点流媒体解锁和游戏加速优化的用户，300GB 流量支持 5 台设备；团队版则面向多设备团队，1000GB 流量与 20 台设备上限更宽裕。",
+          "AI_FAQ_ANSWER_2": "根据使用设备选择即可。Windows 推荐 Clash Verge，macOS 推荐 ClashX，iOS 推荐 Shadowrocket，Android 推荐 v2rayNG，路由器端可参考 OpenWrt 配置教程。各客户端导入订阅后即可按节点列表选择线路。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相比月付可节省整体开支。长期使用建议直接选择年付方案。",
+          "AI_FAQ_ANSWER_4": "旗舰版针对游戏场景做了 IPLC 专线优化，可降低延迟和丢包，适合对实时性要求较高的游戏加速。具体延迟表现受本地网络与所选节点影响。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点、企业定制路由以及专属客户经理服务，适合多人协作场景统一管理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "不同设备应该用哪个客户端？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线对游戏有什么用？",
+          "AI_FAQ_QUESTION_5": "团队版支持多少设备同时在线？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解 STC 的使用方式。",
+          "AI_FEATURES_TITLE": "STC 使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，月付与年付均可选。",
+          "AI_FEATURE_TEXT_2": "单账号支持 3 至 20 台设备同时在线，覆盖手机、电脑与路由器。",
+          "AI_FEATURE_TEXT_3": "按所选客户端文档导入订阅链接，即可切换节点并开始使用。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定方案",
+          "AI_FEATURE_TITLE_3": "按订阅周期配置",
+          "AI_GUIDE_INTRO": "从选套餐到配置完成，三步即可开始使用 STC。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "STC 面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量，支持 3 至 20 台设备同时在线，配合多种客户端订阅配置，满足个人与团队的不同加速需求。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量灵活选择",
+          "AI_HIGHLIGHT_2": "单账号最多 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付更省，最低 ¥150/年",
+          "AI_PLANS_INTRO": "基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用设备数量和月流量需求，在基础版、旗舰版、团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备在线数、节点类型与订阅周期说明，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "按所选客户端文档导入订阅链接，完成节点配置后即可开始加速。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "STC 海外加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "youzeng66.cn",
+    "host": "youzeng66.cn"
+  },
+  "file_hashes": {
+    "index.html": "d23f27eaf157c3ca4241f98ec7cbcaca3568264a294b78cb67305930fa16c4a0",
+    "sitemap.xml": "69b138fbbb142cbf08ded7ab4c119782988500b5561381b8eebbb6428602caba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4844891a20c157cd218572a836bf1fa547a501e530470ae877b58772c14c873e",
+    "robots.txt": "48b90fdc0762778cb777543ed4a1aa75ffaa3473bd2aa30881168633a270dc9d",
+    "b1ce5b62e97a5ce92721ef22318e038c.txt": "cc7c1fa5514d909075f37d688e6aa116b74a417675d82dc16fc0cccd29084b87"
+  },
+  "revision": "d2fcf76610acdd2453d90479d4a457e3a750264ce9bb873e1e9f1d14368769ce"
+}
